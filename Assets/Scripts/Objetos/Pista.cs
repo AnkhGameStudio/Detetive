@@ -135,12 +135,14 @@ public class Pista : MonoBehaviour {
 
 	void OnMouseDown(){
 
-		if (conseguePegar) {
+		if (consegueVer && conseguePegar && !inventario.InventorioAtivo && !player.GetComponent<Player> ().Analisando) {
 			tempoAtualInfoVisivel = 0;
 			player.GetComponent<Player> ().Analisando = true;
 			this.GetComponent<Collider> ().enabled = false;
 			itemPego = true;
-		} else {
+		}
+
+		if (consegueVer && !conseguePegar && !inventario.InventorioAtivo && !player.GetComponent<Player> ().Analisando) {
 			texto.text = descricaoVisivel;
 			infoVisivel.enabled = true;
 			tempoAtualInfoVisivel = tempoInfoVisivel;
@@ -173,6 +175,7 @@ public class Pista : MonoBehaviour {
 	}
 
 	public void ItemLargado(){
+
 		itemPego = false;
 		player.GetComponent<Player> ().Analisando = false;
 		this.GetComponent<Collider> ().enabled = true;
