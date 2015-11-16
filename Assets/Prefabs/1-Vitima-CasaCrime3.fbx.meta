@@ -1,0 +1,216 @@
+fileFormatVersion: 2
+guid: fe043cf3cc3f7cd46a2c2ff64ac244b2
+timeCreated: 1447640917
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Janela_Banheiro1
+    100004: Marco_Porta_Dentro1
+    100006: Marco_Porta_Dentro2
+    100008: Marco_Porta_Dentro3
+    100010: Marco_Porta_Dentro4
+    100012: Marco_Porta_Dentro5
+    100014: Marco_Porta_Dentro6
+    100016: Marco_Porta_Dentro7
+    100018: Marco_Porta_Frente1
+    100020: Mesh1
+    100022: Mesh10
+    100024: Mesh11
+    100026: Mesh12
+    100028: Mesh13
+    100030: Mesh14
+    100032: Mesh15
+    100034: Mesh16
+    100036: Mesh17
+    100038: Mesh18
+    100040: Mesh19
+    100042: Mesh2
+    100044: Mesh3
+    100046: Mesh4
+    100048: Mesh5
+    100050: Mesh6
+    100052: Mesh7
+    100054: Mesh8
+    100056: Mesh9
+    100058: Porta1
+    100060: Porta_Dentro_Aberta_1_1
+    100062: Porta_Dentro_Aberta_1_2
+    100064: Porta_Dentro_Aberta_1_3
+    100066: Porta_Dentro_Aberta_2_1
+    100068: Porta_Dentro_Aberta_2_2
+    100070: Porta_Dentro_Aberta_2_3
+    100072: Porta_Dentro_Aberta_2_4
+    100074: Porta_SemiPronta1
+    100076: Porta_SemiPronta2
+    100078: Porta_SemiPronta3
+    100080: Porta_SemiPronta4
+    100082: Porta_SemiPronta5
+    100084: Porta_SemiPronta6
+    100086: Porta_SemiPronta7
+    100088: Vasculante1
+    400000: //RootNode
+    400002: Janela_Banheiro1
+    400004: Marco_Porta_Dentro1
+    400006: Marco_Porta_Dentro2
+    400008: Marco_Porta_Dentro3
+    400010: Marco_Porta_Dentro4
+    400012: Marco_Porta_Dentro5
+    400014: Marco_Porta_Dentro6
+    400016: Marco_Porta_Dentro7
+    400018: Marco_Porta_Frente1
+    400020: Mesh1
+    400022: Mesh10
+    400024: Mesh11
+    400026: Mesh12
+    400028: Mesh13
+    400030: Mesh14
+    400032: Mesh15
+    400034: Mesh16
+    400036: Mesh17
+    400038: Mesh18
+    400040: Mesh19
+    400042: Mesh2
+    400044: Mesh3
+    400046: Mesh4
+    400048: Mesh5
+    400050: Mesh6
+    400052: Mesh7
+    400054: Mesh8
+    400056: Mesh9
+    400058: Porta1
+    400060: Porta_Dentro_Aberta_1_1
+    400062: Porta_Dentro_Aberta_1_2
+    400064: Porta_Dentro_Aberta_1_3
+    400066: Porta_Dentro_Aberta_2_1
+    400068: Porta_Dentro_Aberta_2_2
+    400070: Porta_Dentro_Aberta_2_3
+    400072: Porta_Dentro_Aberta_2_4
+    400074: Porta_SemiPronta1
+    400076: Porta_SemiPronta2
+    400078: Porta_SemiPronta3
+    400080: Porta_SemiPronta4
+    400082: Porta_SemiPronta5
+    400084: Porta_SemiPronta6
+    400086: Porta_SemiPronta7
+    400088: Vasculante1
+    2300000: Mesh1
+    2300002: Mesh10
+    2300004: Mesh11
+    2300006: Mesh12
+    2300008: Mesh13
+    2300010: Mesh14
+    2300012: Mesh15
+    2300014: Mesh16
+    2300016: Mesh17
+    2300018: Mesh18
+    2300020: Mesh19
+    2300022: Mesh2
+    2300024: Mesh3
+    2300026: Mesh4
+    2300028: Mesh5
+    2300030: Mesh6
+    2300032: Mesh7
+    2300034: Mesh8
+    2300036: Mesh9
+    3300000: Mesh1
+    3300002: Mesh10
+    3300004: Mesh11
+    3300006: Mesh12
+    3300008: Mesh13
+    3300010: Mesh14
+    3300012: Mesh15
+    3300014: Mesh16
+    3300016: Mesh17
+    3300018: Mesh18
+    3300020: Mesh19
+    3300022: Mesh2
+    3300024: Mesh3
+    3300026: Mesh4
+    3300028: Mesh5
+    3300030: Mesh6
+    3300032: Mesh7
+    3300034: Mesh8
+    3300036: Mesh9
+    4300000: Mesh1
+    4300002: Mesh2
+    4300004: Mesh3
+    4300006: Mesh4
+    4300008: Mesh5
+    4300010: Mesh6
+    4300012: Mesh7
+    4300014: Mesh8
+    4300016: Mesh9
+    4300018: Mesh10
+    4300020: Mesh11
+    4300022: Mesh12
+    4300024: Mesh13
+    4300026: Mesh14
+    4300028: Mesh15
+    4300030: Mesh16
+    4300032: Mesh17
+    4300034: Mesh18
+    4300036: Mesh19
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
